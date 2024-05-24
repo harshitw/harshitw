@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript/Typescript/React, Docker, Kubernetes, AWS cloud, SpringBoot, Golang**
 
-- 📝 I ocassionaly write articles on [https://medium.com/@harshitawasthi](https://medium.com/@harshitawasthi)
+- 📝 I've write articles on [https://medium.com/@harshitawasthi](https://medium.com/@harshitawasthi). I'll start writing more on this soon.
 
 - 📫 How to reach me **harshit29.tech@gmail.com**
 
