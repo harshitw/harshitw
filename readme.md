@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript/Typescript/React, Docker, Kubernetes, AWS cloud, SpringBoot, Golang**
 
-- 📝 I've write articles on [https://medium.com/@harshitawasthi](https://medium.com/@harshitawasthi). I'll start writing more on this soon.
+- 📝 Check out some posts from [https://medium.com/@harshitawasthi](https://medium.com/@harshitawasthi).
 
 - 📫 How to reach me **harshit29.tech@gmail.com**
 
