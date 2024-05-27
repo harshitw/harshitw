@@ -3,7 +3,7 @@
 <h3 align="center">I solve challenging technical problems, study and reverse engineer things in my spare time.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I like to work on blazing fast, high performance and distributed low level systems built in **Java and Golang**
+- 🌱 I like to work on blazing fast, high performance and distributed low level systems built in **Java and Golang**.
 
 - 📝 Check out some posts from [https://medium.com/@harshitawasthi](https://medium.com/@harshitawasthi).
 
