@@ -3,7 +3,7 @@
 <h3 align="center">I have a strong interest in tackling extremely challenging technical problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **Typescript, Docker, Kubernetes, AWS cloud, Golang**
+- 🌱 I’m currently learning **Typescript, Docker, Kubernetes, AWS and Golang**
 
 - 📝 Check out some posts from [https://medium.com/@harshitawasthi](https://medium.com/@harshitawasthi).
 
