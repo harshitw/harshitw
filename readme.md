@@ -5,9 +5,9 @@
 
 - 🌱 I specialize in developing blazing fast, high-performance, fault tolerant, distributed and scalable high/low level systems using **Java and Golang**.
 
-- 📝 Check out some posts from [https://medium.com/@harshitawasthi](https://medium.com/@harshitawasthi).
-
 - 📫 How to reach me **harshit29.tech@gmail.com** || www.linkedin.com/in/harshitawasthi1/
+
+- 📝 Blog [https://medium.com/@harshitawasthi](https://medium.com/@harshitawasthi).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
