@@ -3,9 +3,9 @@
 <h3 align="center">I solve challenging technical problems, study and reverse engineer things in my spare time.</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I specialize in developing blazing fast, high-performance, fault tolerant, distributed and scalable high/low level systems using **Java and Golang**.
+- 🌱 I specialize in developing blazing fast, high-performance, fault tolerant, distributed and scalable high/low level systems using **Java and Golang** (monolithic and microservice).
 
-- 📫 How to reach me **harshit29.tech@gmail.com** || www.linkedin.com/in/harshitawasthi1/
+- 📫 Reach me **harshit29.tech@gmail.com** || www.linkedin.com/in/harshitawasthi1/
 - My hobbies/interests revolve mostly around Gym and Travelling.
 
 <h3 align="left">Connect with me:</h3>
