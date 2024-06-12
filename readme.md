@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Awasthi</h1>
 <h3 align="center">A Software Engineer. I've worked on technologies like Blockchain and Artificial Intelligence.</h3>
 <h3 align="center">I solve challenging technical problems, study and reverse engineer things in my spare time.</h3>
+<h3 align="center">My non technical interests are Gym and Callesthenics.</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I specialize in developing blazing fast, high-performance, fault tolerant, distributed and scalable high/low level systems using **Java and Golang**.
