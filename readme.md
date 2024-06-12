@@ -6,7 +6,7 @@
 - 🌱 I specialize in developing blazing fast, high-performance, fault tolerant, distributed and scalable high/low level systems using **Java and Golang**.
 
 - 📫 How to reach me **harshit29.tech@gmail.com** || www.linkedin.com/in/harshitawasthi1/
-- My hobbies/interests revolve mostly around Gym, Callesthenics and Travelling.
+- My hobbies/interests revolve mostly around Gym and Travelling.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
