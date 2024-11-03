@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I specialize in developing blazing fast, high-performance, fault-tolerant, distributed systems in **Rust, Golang, Java and Python** (monolithic and microservice).
-- 🌱 I specialize in auditing web3 protocol development, smart contract security and auditing across EVM, Python and Rust compatible chains.
+- 🌱 I specialize in web3 protocol development, smart contract development, security and auditing across EVM, Python and Rust compatible chains.
 
 - 📫 Ping **harshit29.tech@gmail.com**
 
